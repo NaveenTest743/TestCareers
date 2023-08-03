@@ -1,0 +1,5 @@
+
+test_SampleProjects/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+*.MF
+test_SampleProjects/target/test-0.0.1-SNAPSHOT.jar
